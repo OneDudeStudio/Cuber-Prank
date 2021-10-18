@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ImpotantScenes/SplashScreen.unity
+    guid: 622dabfbc56ab4f42a888d1677db21a7
+  - enabled: 1
+    path: Assets/Scenes/ImpotantScenes/Main Menu.unity
+    guid: 621bee4cf67cf66488db1925472aeb13
+  - enabled: 1
+    path: Assets/Scenes/ImpotantScenes/Test.unity
+    guid: 59a5b3d7918afb74b9373863d9953a3d
+  m_configObjects: {}
